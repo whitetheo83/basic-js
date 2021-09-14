@@ -25,6 +25,6 @@ export default function dateSample(data) {
     } 
 
     return (Math.ceil(Math.log(15/data)/(0.693/5730)));
-}
+
   // remove line with error and write your code here
 }
